@@ -21,3 +21,6 @@
 .article > blockquote {
     @apply pl-5 italic border-l-2 border-neutral-600 border-opacity-40;
 }
+.article > p {
+    @apply w-1/2 mx-auto;
+}
